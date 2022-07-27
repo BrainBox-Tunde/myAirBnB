@@ -1,3 +1,8 @@
-![OH (3)](https://user-images.githubusercontent.com/5024456/172774005-9936515d-d028-4de8-8652-e245d3d320f9.png)
+<h1>App Built with React</h1>
 
-[Hosted Demo](https://mui-airbnb.vercel.app/)
+<h2>App functions</>
+<ul>
+<li>Scrollable Icons</li>
+<li>Corousel display of cards</li>
+</ul>
+
